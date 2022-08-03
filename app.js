@@ -1,6 +1,6 @@
 function lastName() {
   const div = document.getElementById("lastName");
-  div.innerHTML="Mandeya";
+  div.innerHTML="Mandeya Cedrich";
 }
 
 lastName();
